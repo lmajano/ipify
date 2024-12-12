@@ -47,6 +47,11 @@ component delegates="ip<@ipify"
 getMyIp()
 ```
 
+## System requirements
+* [Boxlang](https://www.boxlang.io)
+* Adobe 2018+
+* Lucee 5
+
 ********************************************************************************
 Copyright Since 2005 ColdBox Framework by Luis Majano and Ortus Solutions, Corp
 www.ortussolutions.com
